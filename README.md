@@ -1,3 +1,5 @@
+In the provided code, I created a React application for an online shopping website. It consists of components for the navbar, header, product cards, and footer. Users can see the products, add them to the cart, and see their cart count, with functionality to add or remove items from the cart. The project uses Css and Bootstrap for styling and React hooks like useState for managing state and renders components to create a responsive and interactive shopping experience.
+Live App Link:https://65c53c7979908a11c2ec4c10--inspiring-dango-5ab64b.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
